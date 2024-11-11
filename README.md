@@ -18,5 +18,7 @@ Hi, my name is Hilton Thallyson and I'm a Software Engineering student at Federa
 [**Link to chapter 3 video**](https://www.loom.com/share/3ce4f80998c443948725217287b686ac?sid=faa2562d-a7c3-493b-9318-fc0372b8cd1b)
 #### Chapter 4 - Training Data
 [**Link to chapter 4 presentation**](https://docs.google.com/presentation/d/1HfSWPZx7qFEwhexzZFCt4Pdt39gOL76tYO7cK_xeL_s/edit?usp=sharing)
+
+[**Link to chapter 4 video**](https://www.loom.com/share/210788ccd37e478285a6d2f2248c4942?sid=056859a2-91b9-4090-85c0-d1aa75a6dc37)
 #### Chapter 5 - Feature Engineering
 [**Link to chapter 5 presentation**](https://docs.google.com/presentation/d/1g73hhsCcMqP8WWoIZdLfuneCpIlxPygH4UJDv5t4DzI/edit?usp=sharing)
