@@ -4,6 +4,8 @@ Hi, my name is Hilton Thallyson and I'm a Software Engineering student at Federa
 # TASKS
 ## SUMMARIES
 ### DESIGNING MACHINE LEARNING SYSTEMS - CHIP HUYEN
+This assignment consists of reading the first 5 chapters of the book Designing machine learning systems - an iterative process for production-ready applications by Chip Huyen and creating 5 videos(one video per chapter with maximum duration of 5 minutes) summarizing what the chapter covers.
+
 #### Chapter 1 - Overview of Machine Learning Systems
 [**Link to chapter 1 presentation**](https://docs.google.com/presentation/d/1CC7INXNItK0BmB7596DbOMGVMDnktykob3hPToU2Qrc/edit?usp=sharing)
 
