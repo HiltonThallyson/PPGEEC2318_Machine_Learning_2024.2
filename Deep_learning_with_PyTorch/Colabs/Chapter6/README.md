@@ -1,1 +1,1 @@
-## This colab was develop for a task to learn concepts present in chatper 6 of Deep learning with pytorch step-by-step book from Daniel Godoy and to write an article in Medium platform. You can check the article here [link]
+## This colab was develop for a task to learn concepts present in chatper 6 of Deep learning with pytorch step-by-step book from Daniel Godoy and to write an article in Medium platform. You can check the article here https://medium.com/@hilton.thallyson/ewma-sgd-adam-e-learning-rate-schedulers-1a1dabfc5f10
