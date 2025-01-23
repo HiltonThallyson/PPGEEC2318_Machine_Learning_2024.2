@@ -35,11 +35,11 @@ This section contains different tasks related to the deep learning with pytorch 
 [ **Medium article about CNNs and Hooks**](https://medium.com/@hilton.thallyson/entendendo-cnns-e-hooks-cd237a3e85a4)
 
 ##### Code for colab about hooks
-[ **Colab with example of hooks usage**](https://github.com/HiltonThallyson/PPGEEC2318_Machine_Learning_2024.2/tree/main/Deep_learning_with_PyTorch/Colabs/Chapter5/ExemploHooksMedium.ipynb)
+[ **Colab with example of hooks usage**](./Deep_learning_with_PyTorch/Colabs/Chapter5/ExemploHooksMedium.ipynb)
 
 #### Chapter 6 - Rock, paper, scissors
 ##### Check the medium article about EWMA, SGD, Adam and LR schedulers clicking on the link below
 [ **Medium article about EWMA, SGD, Adam and LR schedulers**](https://medium.com/@hilton.thallyson/ewma-sgd-adam-e-learning-rate-schedulers-1a1dabfc5f10)
 
 ##### Check the colab with examples of EWMA, SGD, ADAM and Lr Schedulers
-[ **EWMA_SGD_ADAM_LR_SCHEDULERS**](https://github.com/HiltonThallyson/PPGEEC2318_Machine_Learning_2024.2/tree/main/Deep_learning_with_PyTorch/Colabs/Chapter5/ExemploHooksMedium.ipynb)
+[ **EWMA_SGD_ADAM_LR_SCHEDULERS**](./Deep_learning_with_PyTorch/Colabs/Chapter5/ExemploHooksMedium.ipynb)
