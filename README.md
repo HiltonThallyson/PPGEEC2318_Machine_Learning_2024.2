@@ -42,4 +42,4 @@ This section contains different tasks related to the deep learning with pytorch 
 [ **Medium article about EWMA, SGD, Adam and LR schedulers**](https://medium.com/@hilton.thallyson/ewma-sgd-adam-e-learning-rate-schedulers-1a1dabfc5f10)
 
 ##### Check the colab with examples of EWMA, SGD, ADAM and Lr Schedulers
-[ **EWMA_SGD_ADAM_LR_SCHEDULERS**](./Deep_learning_with_PyTorch/Colabs/Chapter5/ExemploHooksMedium.ipynb)
+[ **EWMA_SGD_ADAM_LR_SCHEDULERS**](./Deep_learning_with_PyTorch/Colabs/Chapter6/Ewma_SGD_ADAM_LR.ipynb)
