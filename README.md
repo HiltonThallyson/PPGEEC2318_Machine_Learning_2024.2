@@ -43,3 +43,10 @@ This section contains different tasks related to the deep learning with pytorch 
 
 ##### Check the colab with examples of EWMA, SGD, ADAM and Lr Schedulers
 [ **EWMA_SGD_ADAM_LR_SCHEDULERS**](./Deep_learning_with_PyTorch/Colabs/Chapter6/Ewma_SGD_ADAM_LR.ipynb)
+
+#### Chapter 7 - Transfer Learning
+##### Check the medium article about transfer learning in colaboration with [ **Matheus Diniz**](https://github.com/dinizmaths) on the link below
+[ **Medium article about Transfer Learning**](https://medium.com/@dinizmaths/transfer-learning-na-pr%C3%A1tica-fine-tuning-e-feature-extraction-com-vgg16-a2d4b41e72d0)
+
+#### Check the colab about Transfer learning used in the article
+[ **Transfer Learning Colab**](./Deep_learning_with_PyTorch/Colabs/Chapter7/final_task.ipynb)
